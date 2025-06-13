@@ -1,6 +1,6 @@
 // Task 2: Basic CRUD Operations
 // insert_use plp_movie_database
-use plp_movie_database
+useplp_movie_database
 db.createCollection("movies")
 
 // Sample movie data for MongoDB movie database
