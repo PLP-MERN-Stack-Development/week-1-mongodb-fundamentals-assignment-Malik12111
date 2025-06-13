@@ -1,0 +1,9 @@
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+# ...rest of your workflow YAML goes here...
